@@ -18,6 +18,6 @@ session_start();
     <a href = "logout.php"> Logout </a>
     <h1>This is the index page </h1>
     <br>
-    Hello, Username
+    Hello, Username!
 </body>
 </html>
